@@ -33,3 +33,21 @@ Ensure you have Rust installed on your system. If not, you can download and inst
    ```sh
    git clone https://github.com/F-Fer/UCR-cs152-Compiler-Design-Rust-Compiler.git
    cd UCR-cs152-Compiler-Design-Rust-Compiler
+
+### Usage
+
+To compile a source file, use the following command:
+
+```sh
+  cargo run <source_file>
+```
+
+For example:
+```sh
+  cargo run ./examples/nested_loop.tt
+```
+
+## Acknowledgments
+
+- Daniel Tan, for his guidance and the base repository [teh_tarik](https://github.com/danieltan1517/teh_tarik).
+- The Rust community for their excellent documentation.
