@@ -11,7 +11,7 @@ The goal of this project is to design and implement a simple compiler from scrat
 - **Lexer**: Tokenizes the input source code into meaningful symbols.
 - **Parser**: Constructs a syntax tree from the tokens provided by the lexer.
 - **Semantic Analysis**: Ensures the syntax tree adheres to the language's semantic rules.
-- **Code Generation**: Translates the syntax tree into an intermediate representation or target code.
+- **Code Generation**: Translates the syntax tree into an intermediate representation.
 
 ## Repository Structure
 
