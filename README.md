@@ -33,6 +33,7 @@ Clone this repository:
    ```sh
    git clone https://github.com/F-Fer/UCR-cs152-Compiler-Design-Rust-Compiler.git
    cd UCR-cs152-Compiler-Design-Rust-Compiler
+   ```
 
 ### Usage
 
