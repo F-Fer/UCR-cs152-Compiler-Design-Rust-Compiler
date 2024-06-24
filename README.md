@@ -28,7 +28,7 @@ Ensure you have Rust installed on your system. If not, you can download and inst
 
 ### Installation
 
-1. Clone this repository:
+Clone this repository:
 
    ```sh
    git clone https://github.com/F-Fer/UCR-cs152-Compiler-Design-Rust-Compiler.git
