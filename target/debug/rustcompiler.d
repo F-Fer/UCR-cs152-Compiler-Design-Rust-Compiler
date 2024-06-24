@@ -1,0 +1,1 @@
+/Users/finnferchau/Desktop/Hochschule/Sem-4/Compiler_Design/UCR-cs152-Compiler-Design-Rust-Compiler/target/debug/rustcompiler: /Users/finnferchau/Desktop/Hochschule/Sem-4/Compiler_Design/UCR-cs152-Compiler-Design-Rust-Compiler/src/interpreter.rs /Users/finnferchau/Desktop/Hochschule/Sem-4/Compiler_Design/UCR-cs152-Compiler-Design-Rust-Compiler/src/main.rs
